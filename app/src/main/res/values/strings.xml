@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit-Demo</string>
+
+
+    <string name="post">POST</string>
+    <string name="get">GET</string>
+</resources>
