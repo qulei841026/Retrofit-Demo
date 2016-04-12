@@ -5,12 +5,12 @@ public class UrlConstants {
     /**
      * 正式环境服务器
      */
-    private static final String DOMAIN_RELEASE = "218.247.224.5";
+    private static final String DOMAIN_RELEASE = "";
 
     /**
-     * 测试环境服务器  218.247.224.5       登峰地址 10.23.6.108:8080     10.23.102.200:8080
+     * 测试环境服务器
      */
-    private static final String DOMAIN_TEST = "218.247.224.5";
+    private static final String DOMAIN_TEST = "";
 
     private static final ENVIRONMENT SERVER_ENVIRONMENT = getWebServer();
 
